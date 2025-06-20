@@ -11,7 +11,6 @@ URL in Safari when clicked.
 ## How to Run
 **ensure an iOS simulator or physical device is connected
 
-```bash
 flutter pub get 
 flutter run
 
