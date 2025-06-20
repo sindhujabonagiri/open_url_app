@@ -11,12 +11,12 @@ URL in Safari when clicked.
 ## How to Run
 **ensure an iOS simulator or physical device is connected
 
-- ```bash
-- flutter pub get 
-- flutter run
+```bash
+flutter pub get 
+flutter run
 
 ## Project Structure
-lib/main.dart - Main app logic and UI
-pubspec.yaml - Dependencies
-ios/Runner/Info.plist - iOS app permissions
+- lib/main.dart -> Main app logic and UI
+- pubspec.yaml -> Dependencies
+- ios/Runner/Info.plist -> iOS app permissions
 
