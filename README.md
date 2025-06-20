@@ -11,8 +11,8 @@ URL in Safari when clicked.
 ## How to Run
 **ensure an iOS simulator or physical device is connected
 
-flutter pub get 
-flutter run
+- flutter pub get 
+- flutter run
 
 ## Project Structure
 - lib/main.dart -> Main app logic and UI
