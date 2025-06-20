@@ -1,16 +1,22 @@
-# open_url_app
+# Open URL App (Flutter iOS Prototype)
 
-A new Flutter project.
+This simple prototype for iOS contains a single button that opens a hardcoded 
+URL in Safari when clicked.
 
-## Getting Started
+## Features
+- Built with Flutter
+- iOS-only prototype
+- Opens a URL on button tap
 
-This project is a starting point for a Flutter application.
+## How to Run
+**ensure an iOS simulator or physical device is connected
 
-A few resources to get you started if this is your first Flutter project:
+- ```bash
+- flutter pub get 
+- flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Structure
+lib/main.dart - Main app logic and UI
+pubspec.yaml - Dependencies
+ios/Runner/Info.plist - iOS app permissions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
